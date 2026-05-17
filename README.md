@@ -10,7 +10,6 @@ The system allows the user to input motor velocity, control motor direction, sta
 PyQt6 UI → Flask Server → SPI Communication → Arduino → Motor Driver → Linear Motor
 
 
-Uploading KakaoTalk_20260517_110930082 (online-video-cutter.com) (1).mp4…
 
-
+DEMO Video: https://youtu.be/4B1xuBJLQLk?si=wyg5RFMS7tg13uAf
 
